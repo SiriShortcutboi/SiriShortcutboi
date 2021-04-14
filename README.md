@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SiriShortcutboi
-- 👀 I’m interested in Mobile Developement
-- 🌱 I’m currently learning Android Studios
+- 👋 Hi, I’m Holden. I kind a regret my username choice. 
+- 👀 I’m interested in Mobile Deveolpement, specifically Swift.
+- 🌱 I’m currently learning Android Studios.
 - 💞️ I’m looking to collaborate on any interesting idea you might have be it funny or cool or completed.
 - 📫 How to reach me: Direct Message me at my Instagram handle: @justkeeponholdenon
 
